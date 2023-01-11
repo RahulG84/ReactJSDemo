@@ -1,0 +1,24 @@
+#Button {
+  border-width: 4px;
+  background-color: blue;
+  height: 30px;
+  color: white;
+  width: 150px;
+  color: "#E83711";
+
+}
+.textStyle {
+  font-size: 60px;
+  margin-left: 50px;
+  color: black;
+}
+.MainView {
+  /* background-color: rgb(236, 223, 223); */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background-position: center; */
+  height: 100vh;
+  position: relative;
+}
